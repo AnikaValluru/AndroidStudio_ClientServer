@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string-array name="operations_array">
+        <item>esperanto</item>
+        <item>reverse</item>
+        <item>word-count-nost</item>
+    </string-array>
+    <string-array name="files_array">
+        <item>par1.txt</item>
+        <item>par2.txt</item>
+    </string-array>
+</resources>
